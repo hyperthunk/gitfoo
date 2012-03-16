@@ -1,2 +1,11 @@
 
-{blah, []}.
+{nebularis, [
+    {os_env, [
+        {artefact_type, library},
+        {artefact_version, "0.0.1"},
+        {artefact_signing, unsigned},
+        {artefact_md_5, undefined},
+        {system_erts_vsn, "5.9"},
+        {system_packaging_type, zip}
+    ]}
+]}.
